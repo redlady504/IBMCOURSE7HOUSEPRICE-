@@ -4,57 +4,60 @@ As a Data Analyst at a Real Estate Investment Trust, I was tasked with exploring
 
 Using Python, pandas, and scikit-learn, I completed a series of exercises in a Jupyter Notebook to build predictive models and generate insights from real-world housing data.
 
-🗂️ Dataset Overview
-The dataset includes home sale data from King County, Washington (including Seattle), with transactions recorded between May 2014 and May 2015. Key features in the dataset include:
+Dataset Overview
+Dataset includes home sales from King County, Washington (including Seattle).
 
-🏠 Square footage
+Time period: May 2014 to May 2015.
 
-🛏️ Number of bedrooms
+Features include:
 
-🛁 Number of bathrooms
+Square footage
 
-🌲 Zip code
+Number of bedrooms
 
-🏗️ Number of floors
+Number of bathrooms
 
-🧱 Condition and grade of the home
+Zip code
 
-📅 Date of sale
+Number of floors
 
-💲 Sale price (target variable)
+House condition and grade
 
-📌 Objectives
-Understand the structure and summary of the dataset
+Date of sale
 
-Handle missing values and perform data preprocessing
+Sale price (target)
 
-Create linear regression models using scikit-learn
+Project Objectives
+Load and explore real estate data
 
-Evaluate models using metrics like R² score
+Clean and preprocess the dataset
 
-Visualize data relationships and regression fits
+Use linear and polynomial regression models
 
-Apply polynomial regression and regularization techniques
+Evaluate model performance
 
-📓 Notebook Tasks
-The notebook is structured into ten questions, each targeting a specific skill:
+Visualize data relationships
 
-Load and explore the dataset
+Apply grid search and cross-validation techniques
 
-Data cleaning and type conversion
+Tools Used
+Python
 
-Summary statistics
+Jupyter Notebook
 
-Simple linear regression
+Pandas
 
-Multiple linear regression
+Numpy
 
-Model evaluation
+Scikit-learn
 
-Polynomial regression
+Matplotlib / Seaborn (for visualization)
 
-Pipeline creation
+Author
+Desiree' Salvant
 
-Grid search and cross-validation
+Data Scientist | Real Estate & Technology Enthusiast
 
-Final evaluation and model selection
+
+
+
